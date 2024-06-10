@@ -14,10 +14,10 @@
 
 </div>
   <div align="center">
-    <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%">
+<!--     <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%"> -->
   </div>
   <div id="header" align="center">
-  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/ERO.gif"/>
+  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/ERO.gif" width="100%" height="100%"/>
      <br>
   </div>
 </header>
