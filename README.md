@@ -17,7 +17,7 @@
     <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%">
   </div>
   <div id="header" align="center">
-  <a href="https://www.youtube.com/watch?v=jtGt-_VZkp4"><img src="https://github.com/WhiteSnow00/WhiteSnow00/blob/main/Ayaka.gif" /></a>
+  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/ERO.gif"/>
      <br>
   </div>
 </header>
