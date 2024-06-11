@@ -13,11 +13,11 @@
   [![Email Badge](https://img.shields.io/badge/-kiemuchan1212-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kiemuchan1212@gmail.com)
 
 </div>
-  <div align="center">
+<!--   <div align="center">
     <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%">
-  </div>
+  </div> -->
   <div id="header" align="center">
-<!--   <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/ERO.gif" width="50%" height="50%"/> -->
+  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/LEWD_2.gif" width="50%" height="50%"/>
      <br>
   </div>
 </header>
