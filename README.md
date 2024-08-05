@@ -16,8 +16,8 @@
 <!--   <div align="center">
     <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%">
   </div> -->
-  <div id="header" align="center">
-  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/LEWD_3.GIF" width="50%" height="50%"/>
+<!--   <div id="header" align="center">
+  <img src="https://github.com/kiemuchan1212/kiemuchan1212/blob/main/LEWD_3.GIF" width="50%" height="50%"/> -->
      <br>
   </div>
 </header>
